@@ -8,7 +8,7 @@
 // 3. Increment of counter.
 
 
-class unknown {
+class count_num_have_greater_num {
     public static void main (String[] args){
         int[] arr = {1,4,2,6,3,7,7,7};
         int count = 0;
@@ -25,7 +25,7 @@ class unknown {
 }
 
 
-// class unknown {
+// class count_num_have_greater_num {
 //     public static void main(String[] args) {
 //         int[] arr = {1,2,3,3,5,7,4,6,7,5,6};
 //         int counter =0 ;
