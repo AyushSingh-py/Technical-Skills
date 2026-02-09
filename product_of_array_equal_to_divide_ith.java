@@ -8,7 +8,7 @@ public class product_of_array_equal_to_divide_ith {
         int product =1;
         int[] total = new int[arr.length];
         for(int i=0;i<arr.length-1;i++){
-            product+=arr[i]*arr[i+1];
+            product*=arr[i];
         }
         for(int i=0;i<arr.length;i++){
             total[i]=product/arr[i];
