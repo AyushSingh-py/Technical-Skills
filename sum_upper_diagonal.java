@@ -24,6 +24,6 @@ public class sum_upper_diagonal {
             }
         }
         System.out.println(sum);
-        
+        sc.close();
     }
 }

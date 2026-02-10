@@ -24,5 +24,6 @@ public class sum_lower_diagonal {
         }
 
         System.out.println(sum_lower);
+        sc.close();
     }
 }

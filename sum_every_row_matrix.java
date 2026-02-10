@@ -22,5 +22,6 @@ public class sum_every_row_matrix {
             }
             System.out.println("Sum of row " +i+ " is: " +sum);
         }
+        sc.close();
     }
 }

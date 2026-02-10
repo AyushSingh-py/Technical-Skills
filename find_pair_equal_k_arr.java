@@ -9,7 +9,6 @@ public class find_pair_equal_k_arr {
         num =sc.nextInt();
         System.out.println("enter k");
         int k =sc.nextInt();
-        int sum =0;
         int[] arr = new int[num];
 
         for(int i=0;i<num;i++){

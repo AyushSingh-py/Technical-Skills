@@ -27,5 +27,6 @@ public class second_largest_element_arr {
             }
         }
         System.out.println(sec_max);
+        sc.close();
     }
 }

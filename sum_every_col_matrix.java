@@ -25,6 +25,6 @@ public class sum_every_col_matrix {
             }
             System.out.println("Sum of column " +j+ " is: " +sum);
         }
-
+        sc.close();
     }
 }
